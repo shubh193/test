@@ -7,6 +7,5 @@
 </head>
 <body>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quisquam?</p>
-    <h1>adding hello in new branch</h1>
 </body>
 </html>
