@@ -7,7 +7,7 @@
 </head>
 <body>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quisquam?</p>
-    <h2>hello heading2</h2>
+    <h6>hello heading6</h6>
     <h3>hello heading3</h3>
 </body>
 </html>
